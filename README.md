@@ -78,7 +78,7 @@ python analyze_lakers.py
 
 ### Example Output
 
-The program outputs a ranked list of players based on their calculated scores, along with visualizations highlighting key statistics and comparisons between top performers. Results are saved as both CSV files and visual charts for further inspection.
+The program outputs a ranked list of players based on their calculated scores, along with visualizations highlighting key statistics and comparisons between top performers with visual charts for further inspection.
 
 ## Performance Metrics
 
